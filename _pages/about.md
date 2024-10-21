@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-I am a second-year Master of Philosophy (M.Phil) student at [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) of [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Farzan Farnia](https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/). Prior to that, I obtained my B.Sc. degree in computer science from the same university, and I had research experiences supervised by [Siu On Chan](https://www.cse.cuhk.edu.hk/people/faculty/siu-on-chan/), [Anthony Man-Cho So](https://www.se.cuhk.edu.hk/people/academic-staff/prof-so-man-cho-anthony/), and [Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi).
+I am a second-year Master of Philosophy (M.Phil.) student at [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) of [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Farzan Farnia](https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/). Prior to that, I obtained my B.Sc. degree in computer science from the same university, and I had research experiences supervised by [Siu On Chan](https://www.cse.cuhk.edu.hk/people/faculty/siu-on-chan/), [Anthony Man-Cho So](https://www.se.cuhk.edu.hk/people/academic-staff/prof-so-man-cho-anthony/), and [Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi).
 
 My research interests lie in the theoretical analysis of learning and optimization problems. Recently, I have been working on the convergence guarantees of diffusion models. Previously, I have worked on the generalization of machine learning, statistical learning, non-convex optimization, and information theory. 
 
