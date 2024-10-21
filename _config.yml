@@ -21,13 +21,13 @@ repository               : "Xiwei-Cheng/Xiwei-Cheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "xiwei_cheng.jpeg"
   name             : "Xiwei Cheng"
   pronouns         : 
   bio              : "M.Phil student at CUHK"
   location         : "Hong Kong"
-  employer         : "Chinese University of Hong Kong"
-  uri              : "https://xiwei-cheng.github.io/"
+  employer         : #"Chinese University of Hong Kong"
+  uri              : #"https://xiwei-cheng.github.io/"
   email            : "xwcheng@link.cuhk.edu.hk" 
 
   # Academic websites
