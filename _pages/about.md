@@ -20,20 +20,20 @@ My research interests lie in the theoretical analysis of learning and optimizati
 
 - [On the Mode-Seeking Properties of Langevin Dynamics](https://arxiv.org/abs/2406.02017) \
   **Xiwei Cheng**, Kexin Fu, and Farzan Farnia \
-  [Preprint] Under review. arXiv preprint arXiv:2406.02017, June 2024
+  Under review. arXiv preprint arXiv:2406.02017, June 2024
   
 - [Stability and Generalization in Free Adversarial Training](https://arxiv.org/abs/2404.08980) \
   **Xiwei Cheng**, Kexin Fu, and Farzan Farnia \
-  [Preprint] Under review. arXiv preprint arXiv:2404.08980, April 2024
+  Under review. arXiv preprint arXiv:2404.08980, April 2024
   
 - [Non-Convex Joint Community Detection and Group Synchronization via Generalized Power Method](https://proceedings.mlr.press/v238/chen24e.html) \
   Sijin Chen, **Xiwei Cheng**, and Anthony Man-Cho So \
-  [Conference] International Conference on Artificial Intelligence and Statistics (AISTATS), May 2024
+  International Conference on Artificial Intelligence and Statistics (AISTATS), May 2024
   
 - [Generalized Group Testing](https://ieeexplore.ieee.org/abstract/document/9932433) \
   **Xiwei Cheng**, Sidharth Jaggi, and Qiaoqiao Zhou \
-  [Conference] International Conference on Artificial Intelligence and Statistics (AISTATS), May 2022 \
-  [Journal] IEEE Transactions on Information Theory (TIT), March 2023 
+  International Conference on Artificial Intelligence and Statistics (AISTATS), May 2022 \
+  IEEE Transactions on Information Theory (TIT), March 2023 
 
 
 
